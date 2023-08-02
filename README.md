@@ -14,12 +14,8 @@
 
 ## Tecnologias mais utilizadas: 
 
-<div style="display: flex;">
+<div align="center" style="display: inline_block">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-0911&hide_progress=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-0911)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-0911&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
