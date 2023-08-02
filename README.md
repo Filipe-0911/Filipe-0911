@@ -17,6 +17,6 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-0911&hide_progress=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-0911)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-0911)
 
 </div>
