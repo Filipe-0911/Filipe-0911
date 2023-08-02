@@ -9,7 +9,7 @@
 <div align="center" style="display: inline_block">
   
 ![Filipe-0911 GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipe-0911&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-0911&layout=demo)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-0911&layout=donut)
 </div>
 
 ## Tecnologias que eu uso no meu dia a dia
