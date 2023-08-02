@@ -5,3 +5,14 @@
 - 
 ![Filipe-0911 GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipe-0911&show_icons=true&theme=radical)
 
+## Tecnologias que eu uso no meu dia a dia
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="html5" src="" />
+</div>
+
+## Tecnologias mais utilizadas: 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-0911&hide_progress=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
