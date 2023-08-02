@@ -3,6 +3,7 @@
 - 🌱 Estou aprendendo Javascript, React e Typescript.
 - 💞️ Procuro colaborar com projetos tanto Open Source quanto privados.
 <br/>
+
 ![Filipe-0911 GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipe-0911&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia a dia
