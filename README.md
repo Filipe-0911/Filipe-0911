@@ -1,7 +1,7 @@
-- 👋 Oi! Meu nome é Filipe.
-- 👀 Estou interessado em aprender novas técnicas e aperfeiçoar minhas habilidades na programação.
-- 🌱 Estou aprendendo Javascript, React e Python.
-- 💞️ Procuro colaborar com projetos tanto Open Source quanto privados.
+-  Oi! Meu nome é Filipe.
+-  Estou interessado em aprender novas técnicas e aperfeiçoar minhas habilidades na programação.
+-  Estou aprendendo Javascript, React e Python.
+-  Procuro colaborar com projetos tanto Open Source quanto privados.
 <br/>
 
 ## Commits realizados recentemente e tecnologias mais utilizadas
