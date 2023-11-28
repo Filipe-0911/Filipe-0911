@@ -1,6 +1,6 @@
 -  Oi! Meu nome é Filipe.
 -  Estou interessado em aprender novas técnicas e aperfeiçoar minhas habilidades na programação.
--  Estou aprendendo Javascript(JQuery, P5.js), React e Python (Django).
+-  Trabalho com Javascript(JQuery, P5.js), Python (Django) e projetos do Google App Script.
 -  Procuro colaborar com projetos tanto Open Source quanto privados.
 <br/>
 
