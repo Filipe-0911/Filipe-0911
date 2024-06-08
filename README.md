@@ -1,6 +1,6 @@
 -  Oi! Meu nome é Filipe.
 -  Estou interessado em aprender novas técnicas e aperfeiçoar minhas habilidades na programação.
--  Trabalho com Javascript(NodeJS), Python(Django) e Java (SpringBoot).
+-  Trabalho com Javascript(NodeJS), Python(Django) e Java (Spring Boot).
 -  Procuro colaborar com projetos tanto Open Source quanto privados.
 <br/>
 
