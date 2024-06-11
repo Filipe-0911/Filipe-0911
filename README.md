@@ -2,6 +2,7 @@
 -  Estou interessado em aprender novas técnicas e aperfeiçoar minhas habilidades na programação.
 -  Trabalho com Javascript(NodeJS), Python(Django) e Java (Spring Boot).
 -  Procuro colaborar com projetos tanto Open Source quanto privados.
+-  Possuo algumas API's feitas com Java (Spring boot) e NodeJS (ExpressJS e Sequelize)
 <br/>
 
 ## Commits realizados recentemente e tecnologias mais utilizadas
